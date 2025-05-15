@@ -25,36 +25,56 @@ To learn more about Next.js, take a look at the following resources:
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-Project Structure
-contracts/: Smart contracts (written in Solidity via Remix)
-frontend/: DApp code (React, Next.js, or React Native)
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!.
+
+Project Structure:
+
+contracts/: Smart contracts (written in Solidity via Remix).
+
+frontend/: DApp code (React, Next.js, or React Native).
+
 assets/: Screenshots, mockups, etc.
-videos/: Demo screen recordings
-deployment/: Script files and deployed addresses
-Tech Stack
-Solidity + Hardhat (or Remix)
-React / Next.js / React Native
-IPFS / Filecoin (optional)
-MetaMask / WalletConnect
-Ethers.js / Wagmi / RainbowKit
-How to Run Locally
+
+videos/: Demo screen recordings.
+
+deployment/: Script files and deployed addresses.
+
+Tech Stack:
+
+Solidity + Hardhat (or Remix).
+
+React / Next.js / React Native.
+
+IPFS.
+
+MetaMask / WalletConnect.
+
+Ethers.js / Wagmi / RainbowKit.
+
+How to Run Locally:
+
 Clone the repo
-cd frontend && npm install
+
+npm install
+
 npm run dev
-Contracts
-Contract	Address	Network
-ExampleLoan.sol	0x...	Sonic Testnet
+
 📸 Screenshots
+
 Screenshot 1
 
 🎥 Demo Video
+
 Watch here
 
 Authors
+
 Shadrack Acheampong, Nathaniel Quansah(Frontend)
+
 Shadrack Acheampong (Solidity)
+
 📄 License
+
 MIT or GPL-3.0
 
 
