@@ -65,7 +65,7 @@ Screenshot 1: https://github.com/Blockbridge-Network/Team-Ghana-Asaase/tree/main
 
 🎥 Demo Video
 
-Watch here: https://github.com/Blockbridge-Network/Team-Ghana-Asaase/blob/main/Video/Ghana-Asaase.mp4
+Watch here: https://youtu.be/Cr9De0a_Nc8
 
 Authors
 
