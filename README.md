@@ -61,7 +61,7 @@ npm run dev
 
 📸 Screenshots
 
-Screenshot 1
+Screenshot 1: https://github.com/Blockbridge-Network/Team-Ghana-Asaase/tree/main/Images
 
 🎥 Demo Video
 
